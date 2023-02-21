@@ -1,3 +1,8 @@
+#Creado el 20 de Febrero de 2023 por José Luis Santos Mendoza
+#Actividad 1: procesamiento por lotes
+#Universidad de Guadalajara, Seminario de Solución de Problemas de Sistemas Operativos
+#Profesor Javier Rosales Martínez, Sección D06
+
 import tkinter as tk #Library to create the graphical interface
 import codecs #Library to work with UTF-8 encoded files
 
